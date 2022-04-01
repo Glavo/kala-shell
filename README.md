@@ -1,1 +1,3 @@
-# kala-shell
+# Kala Shell
+
+In development...
