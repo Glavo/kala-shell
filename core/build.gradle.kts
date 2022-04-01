@@ -7,4 +7,7 @@ dependencies {
     implementation("org.apache.maven.resolver:maven-resolver-transport-file:$mavenResolverVersion")
 
     implementation("org.jline:jline:3.21.0")
+    implementation("net.java.dev.jna:jna:5.11.0")
+
+    implementation(project(":api"))
 }
