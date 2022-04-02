@@ -11,7 +11,8 @@ allprojects {
     version = "1.0-SNAPSHOT"
 
     repositories {
-        mavenCentral()
+        //mavenCentral()
+        maven(url = "https://maven.aliyun.com/repository/public")
     }
 
     dependencies {
